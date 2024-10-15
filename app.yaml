@@ -1,4 +1,4 @@
-runtime: nodejs10
+runtime: nodejs22
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: eco-shift-434000-i3:us-central1:aca-first-db
